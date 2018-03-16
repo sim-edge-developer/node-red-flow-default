@@ -1,2 +1,2 @@
 # node-red-flow-default
-default flow
+default flow test
